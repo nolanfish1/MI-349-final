@@ -30,7 +30,7 @@ h1, h2, h3 {
 .logo-box {
   width: 36px;
   height: 36px;
-  background-color: #f4a52c;
+  background-color: #FF9F1C;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -56,13 +56,13 @@ h1, h2, h3 {
 }
 
 .nav-link.active {
-  background-color: #f4a52c;
+  background-color: #FF9F1C;
   color: #000000;
 }
 
 .btn {
   display: inline-block;
-  background-color: #f4a52c;
+  background-color: #FF9F1C;
   color: #000000;
   padding: 8px 18px;
   border-radius: 20px;
@@ -76,9 +76,8 @@ h1, h2, h3 {
   background-color: #e2931f;
 }
 
-/* Hero masthead */
 .hero {
-  background-color: #f4a52c;  /* mustard yellow */
+  background-color: #f4a52c;
   padding: 80px 16px;
 }
 
@@ -233,7 +232,7 @@ h1, h2, h3 {
 .social-btn {
   display: inline-flex;
   align-items: center;
-  background-color: #f4a52c;
+  background-color: #FF9F1C;
   color: #000000;
   padding: 8px 14px;
   border-radius: 20px;
@@ -246,7 +245,7 @@ h1, h2, h3 {
 }
 
 .home {
-  background-color: #f4a52c;
+  background-color: #FF9F1C;
   background-image:
     radial-gradient(circle at top left, rgba(255, 255, 255, 0.25), transparent 60%),
     radial-gradient(circle at bottom right, rgba(0, 0, 0, 0.08), transparent 55%);
